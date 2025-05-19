@@ -1,6 +1,6 @@
 # Text Summarization Web App
 
-![Text Summarizer Demo]( )
+![Text Summarizer Demo](https://github.com/UmeshSamartapu/TEXT_SUMMARIZATION_TOOL/blob/main/text_summarizer_app/assets/Text%20Summarizer%20Frontend.png)
 
 A web application that uses state-of-the-art NLP techniques to generate concise summaries from lengthy articles. Built with FastAPI, Transformers, and Uvicorn.
 
@@ -104,9 +104,9 @@ pm2 start gunicorn --name "text-summarizer" --interpreter python
 ```
 
 ## Demo 
-### You can watch the ([youtube video]( )) for demo
+### You can watch the ([youtube video](https://youtu.be/W5yIjI5FpPs)) for demo
 <p align="center">
-  <img src=" " />
+  <img src="https://github.com/UmeshSamartapu/TEXT_SUMMARIZATION_TOOL/blob/main/text_summarizer_app/assets/TextSummarizer-Gif.gif" />
 </p>  
 
 
